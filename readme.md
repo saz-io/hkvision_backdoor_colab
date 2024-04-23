@@ -1,1 +1,1 @@
-This Colab can be used to find vulnerable cameras and download their configurations using Shodan, and exploit the backdoor using a magic string. The Colab is semi-automated to decrypt the password from the configuration files.
+This Colab can be used to find vulnerable cameras using Shodan and download their configurations and exploit the backdoor using a magic string. The Colab is semi-automated to decrypt the password from the configuration files.
